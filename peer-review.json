@@ -6,6 +6,7 @@
 	"eval": [
 		{
 			"id": "1",
+			"group": "1",
 			"student": {
 				"studentName": "Student1 name",
 				"studentEmail": "S1@ru.nl"
@@ -34,12 +35,34 @@
 			],
 			"grade": "👍",
 			"comments": "No feedback"
-		},
 		{
 			"id": "2",
+			"group": "2",
 			"student": {
 				"studentName": "S2 name",
 				"studentEmail": "S2main@cs.ru.nl"
+			},
+			"skills": [
+				{
+					"description": "blog writing",
+					"rsym": "★★☆",
+					"rating": "★★☆"
+				},
+				{
+					"description": "coding",
+					"rsym": "★★★",
+					"rating": "★★☆"
+				}
+			],
+			"comments": "Not much to say",
+			"grade": "👍"
+		},
+		{
+			"id": "3",
+			"group": "1",
+			"student": {
+				"studentName": "S3 name",
+				"studentEmail": "S3main@cs.ru.nl"
 			},
 			"skills": [
 				{
@@ -59,3 +82,4 @@
 	],
 	"comments": "Say what you like to add to the evaluation of your group, the practical assignment itself, or the overall course."
 }
+		},
