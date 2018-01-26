@@ -1,23 +1,61 @@
 {
 	"courseName": "Information Retrieval",
-	"courseDesc": "NWI-I00041-2017-KW1-V\n\tPractical Assignment",
-	"courseURL": "http://www.informagus.nl/edu/IR.html",
+	"courseDesc": "NWI-I00041-2017-KW1-V",
+	"courseURL": "http://informagus.nl/edu/IR.html",
 	"courseEmail": "arjen@cs.ru.nl",
 	"eval": [
 		{
-			"id": "?",
+			"id": "1",
 			"student": {
-				"studentName": "Student name",
-				"studentEmail": "Email address"
+				"studentName": "Student1 name",
+				"studentEmail": "S1@ru.nl"
 			},
 			"skills": [
 				{
-					"description": "\n\t    Description of skill\n\t  ",
-					"rating": "\n\t    "
+					"description": "Blog writing",
+					"rsym": "★★☆",
+					"rating": "★★☆"
+				},
+				{
+					"description": "Coding",
+					"rsym": "★★☆",
+					"rating": "★★★"
+				},
+				{
+					"description": "Analysis",
+					"rsym": "★★☆",
+					"rating": "★★☆"
+				},
+				{
+					"description": "Groupwork",
+					"rsym": "★★☆",
+					"rating": "★★☆"
 				}
 			],
+			"grade": "👏",
+			"comments": "No feedback"
+		},
+		{
+			"id": "2",
+			"student": {
+				"studentName": "S2 name",
+				"studentEmail": "S2main@cs.ru.nl"
+			},
+			"skills": [
+				{
+					"description": "blog writing",
+					"rsym": "★★☆",
+					"rating": "★★☆"
+				},
+				{
+					"description": "coding",
+					"rsym": "★★★",
+					"rating": "★★☆"
+				}
+			],
+			"comments": "Not much to say",
 			"grade": "👍"
 		}
 	],
-	"comments": "\n    Comments or feedback?\n  "
+	"comments": "Say what you like to add to the evaluation of your group, the practical assignment itself, or the overall course."
 }
