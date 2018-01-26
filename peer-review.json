@@ -1,0 +1,23 @@
+{
+	"courseName": "Information Retrieval",
+	"courseDesc": "NWI-I00041-2017-KW1-V\n\tPractical Assignment",
+	"courseURL": "http://www.informagus.nl/edu/IR.html",
+	"courseEmail": "arjen@cs.ru.nl",
+	"eval": [
+		{
+			"id": "?",
+			"student": {
+				"studentName": "Student name",
+				"studentEmail": "Email address"
+			},
+			"skills": [
+				{
+					"description": "\n\t    Description of skill\n\t  ",
+					"rating": "\n\t    "
+				}
+			],
+			"grade": "👍"
+		}
+	],
+	"comments": "\n    Comments or feedback?\n  "
+}
