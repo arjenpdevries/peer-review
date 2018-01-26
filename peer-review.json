@@ -14,22 +14,18 @@
 			"skills": [
 				{
 					"description": "Blog writing",
-					"rsym": "★★☆",
 					"rating": "★★☆"
 				},
 				{
 					"description": "Coding",
-					"rsym": "★★☆",
 					"rating": "★★☆"
 				},
 				{
 					"description": "Analysis",
-					"rsym": "★★☆",
 					"rating": "★★☆"
 				},
 				{
 					"description": "Groupwork",
-					"rsym": "★★☆",
 					"rating": "★☆☆"
 				}
 			],
@@ -45,12 +41,10 @@
 			"skills": [
 				{
 					"description": "blog writing",
-					"rsym": "★★☆",
 					"rating": "★☆☆"
 				},
 				{
 					"description": "coding",
-					"rsym": "★★★",
 					"rating": "★★☆"
 				}
 			],
@@ -66,12 +60,10 @@
 			"skills": [
 				{
 					"description": "blog writing",
-					"rsym": "★★☆",
 					"rating": "★★☆"
 				},
 				{
 					"description": "coding",
-					"rsym": "★★★",
 					"rating": "★★☆"
 				}
 			],
