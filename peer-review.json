@@ -11,11 +11,11 @@
 			"skills": [
 				{
 					"description": "\n\tReporting\n\t  ",
-					"rating": "\n\t    "
+					"rating": "★★☆"
 				},
 				{
 					"description": "\n\tCoding\n\t  ",
-					"rating": "\n\t    "
+					"rating": "★★★"
 				}
 			]
 		},
@@ -29,7 +29,12 @@
 			},
 			"skills": [
 				{
-					"rating": "\n\t    "
+					"description": "\n\tReporting\n\t  ",
+					"rating": "★★☆"
+				},
+				{
+					"description": "\n\tCoding\n\t  ",
+					"rating": "★★★"
 				}
 			]
 		},
@@ -43,7 +48,12 @@
 			},
 			"skills": [
 				{
-					"rating": "\n\t    "
+					"description": "\n\tReporting\n\t  ",
+					"rating": "★★☆"
+				},
+				{
+					"description": "\n\tCoding\n\t  ",
+					"rating": "★★★"
 				}
 			]
 		}
