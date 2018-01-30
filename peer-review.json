@@ -1,0 +1,51 @@
+{
+	"eval": [
+		{
+			"id": 1,
+			"grp": 1,
+			"grade": "👏",
+			"student": {
+				"studentName": "Student 1",
+				"studentEmail": "s1@cs.ru.nl"
+			},
+			"skills": [
+				{
+					"description": "\n\tReporting\n\t  ",
+					"rating": "\n\t    "
+				},
+				{
+					"description": "\n\tCoding\n\t  ",
+					"rating": "\n\t    "
+				}
+			]
+		},
+		{
+			"id": 2,
+			"grp": 2,
+			"grade": "👏",
+			"student": {
+				"studentName": "Student 2",
+				"studentEmail": "s2@cs.ru.nl"
+			},
+			"skills": [
+				{
+					"rating": "\n\t    "
+				}
+			]
+		},
+		{
+			"id": 3,
+			"grp": 1,
+			"grade": "👏",
+			"student": {
+				"studentName": "Student 3",
+				"studentEmail": "s3@cs.ru.nl"
+			},
+			"skills": [
+				{
+					"rating": "\n\t    "
+				}
+			]
+		}
+	]
+}
