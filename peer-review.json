@@ -10,12 +10,12 @@
 			},
 			"skills": [
 				{
-					"description": "\n\tReporting\n\t  ",
+					"description": "Reporting",
 					"rating": "★★☆"
 				},
 				{
-					"description": "\n\tCoding\n\t  ",
-					"rating": "★★★"
+					"description": "Coding",
+					"rating": "★★☆"
 				}
 			]
 		},
